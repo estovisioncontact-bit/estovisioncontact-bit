@@ -5,7 +5,7 @@ delivery times, and the ordering traps that cost EU builders money (customs, VAT
 shipping-origin surprises, long lead times).
 
 - Landing page: https://estovisioncontact-bit.github.io/cnc-sourcing-pl-eu/
-- Free guide (gist): https://gist.github.com/estovisioncontact-bit/d80d74146b9ea5b9ebd7586559b130a2
+- Free guide (gist): https://gist.github.com/estovisioncontact-bit/438db758e2aa9f88fadf372571698be3
 - Printable PDF, v4 (BOM tables + checklist, 45 KB):
   https://github.com/estovisioncontact-bit/cnc-sourcing-pl-eu/releases/latest/download/cnc-sourcing-guide-pl-eu-v4.pdf
 - Paid custom sourcing research for your machine and country — $2.50 (USDC):
