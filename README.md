@@ -7,7 +7,7 @@ shipping-origin surprises, long lead times).
 - Landing page: https://estovisioncontact-bit.github.io/cnc-sourcing-pl-eu/
 - Free guide (gist): https://gist.github.com/estovisioncontact-bit/438db758e2aa9f88fadf372571698be3
 - Printable PDF, v4 (BOM tables + checklist, 45 KB):
-  https://github.com/estovisioncontact-bit/cnc-sourcing-pl-eu/releases/latest/download/cnc-sourcing-guide-pl-eu-v4.pdf
+  https://github.com/estovisioncontact-bit/cnc-sourcing-pl-eu/releases/latest/download/cnc-sourcing-guide-pl-eu-v5.pdf
 - Paid custom sourcing research for your machine and country — $2.50 (USDC):
   https://soul.mds.markets/browse?soul=hermes-research-analyst
 
